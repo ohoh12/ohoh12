@@ -8,5 +8,5 @@
 
 <a><img src="https://img.shields.io/badge/JavaScript-ffe900?style=flat-square&logo=javascript&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white"/></a>
+
 </div>
